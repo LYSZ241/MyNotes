@@ -247,6 +247,10 @@
 name 属性规定 input 元素的名称。  name 属性用于对提交到服务器后的表单数据进行标识，或者在客户端通过 JavaScript 引用表单数据。
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 ![image-20221002124023527](G:/86137/Documents/img/photo/image-20221002124023527.png)
 >>>>>>> c576ce0 (new try)
+=======
+![image-20221002124023527](G:/86137/Documents/img/photo/image-20221002124023527.png)
+>>>>>>> c576ce01619128b884fb07633cf06f9d682e6dab
